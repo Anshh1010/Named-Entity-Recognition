@@ -27,7 +27,7 @@ LSTM
 Time Distributed Layer  
 
 <img width="585" alt="Screenshot 2023-01-06 at 9 41 17 PM" src="https://user-images.githubusercontent.com/72307339/211051692-e9e05b0a-c218-45a0-95f4-2d0e7724e8a2.png">   
-This is how the working model looks     
+This is how the working model looks      
 
 <img width="1092" alt="Screenshot 2023-01-06 at 9 43 24 PM" src="https://user-images.githubusercontent.com/72307339/211052091-1e727c05-b8cb-42a7-892f-48c60dc177db.png">  
 
